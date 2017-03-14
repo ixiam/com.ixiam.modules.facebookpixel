@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.ixiam.modules.facebookpixel" type="module">
+  <file>facebookpixel</file>
+  <name>facebookpixel</name>
+  <description>facebookpixel</description>
+  <license>GNU Affero Public License 3.0</license>
+  <maintainer>
+    <author>Ruben</author>
+    <email>r.pineda@ixiam.com</email>
+  </maintainer>
+  <releaseDate>2017-03-10</releaseDate>
+  <version>1.2</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments>Extension to use facebook pixel in contribution pages</comments>
+  <civix>
+    <namespace>CRM/Facebookpixel</namespace>
+  </civix>
+</extension>
